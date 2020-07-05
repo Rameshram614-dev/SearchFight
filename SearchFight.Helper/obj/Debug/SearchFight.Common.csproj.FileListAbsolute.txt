@@ -1,0 +1,11 @@
+C:\Users\Ravi\Downloads\SearchFight-master\SearchFight.Common\bin\Debug\SearchFight.Common.dll
+C:\Users\Ravi\Downloads\SearchFight-master\SearchFight.Common\bin\Debug\SearchFight.Common.pdb
+C:\Users\Ravi\Downloads\SearchFight-master\SearchFight.Common\obj\Debug\SearchFight.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Downloads\SearchFight-master\SearchFight.Common\obj\Debug\SearchFight.Common.dll
+C:\Users\Ravi\Downloads\SearchFight-master\SearchFight.Common\obj\Debug\SearchFight.Common.pdb
+C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\bin\Debug\SearchFight.Common.dll
+C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\bin\Debug\SearchFight.Common.pdb
+C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\obj\Debug\SearchFight.Common.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\obj\Debug\SearchFight.Common.dll
+C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\obj\Debug\SearchFight.Common.pdb
+C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\obj\Debug\SearchFight.Common.csprojAssemblyReference.cache
