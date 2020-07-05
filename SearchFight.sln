@@ -5,13 +5,13 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFight", "SearchFight\SearchFight.csproj", "{4C5A4CAE-9739-4597-8876-21B2CE9B84DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFight.Helper", "..\..\SearchFight\SearchFight.Common\SearchFight.Helper.csproj", "{F429E749-FD42-409D-926D-D27AE28C0016}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFight.Clients", "SearchFight.Clients\SearchFight.Clients.csproj", "{DCA1350D-6DF5-4E78-B8F2-2095456A5A03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFight.Clients", "..\..\SearchFight\SearchFight.Infrastructure\SearchFight.Clients.csproj", "{DCA1350D-6DF5-4E78-B8F2-2095456A5A03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFight.Helper", "SearchFight.Helper\SearchFight.Helper.csproj", "{F429E749-FD42-409D-926D-D27AE28C0016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFight.Logic", "..\..\SearchFight\SearchFight.Logic\SearchFight.Logic.csproj", "{2DD84189-129B-4281-856D-C6613C6E0D21}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFight.Logic", "SearchFight.Logic\SearchFight.Logic.csproj", "{2DD84189-129B-4281-856D-C6613C6E0D21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFight.Services", "..\..\SearchFight\SearchFight.Services\SearchFight.Services.csproj", "{92CAEC50-2154-4FA9-964C-E43533D00AC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchFight.Services", "SearchFight.Services\SearchFight.Services.csproj", "{92CAEC50-2154-4FA9-964C-E43533D00AC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +23,14 @@ Global
 		{4C5A4CAE-9739-4597-8876-21B2CE9B84DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C5A4CAE-9739-4597-8876-21B2CE9B84DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C5A4CAE-9739-4597-8876-21B2CE9B84DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F429E749-FD42-409D-926D-D27AE28C0016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F429E749-FD42-409D-926D-D27AE28C0016}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F429E749-FD42-409D-926D-D27AE28C0016}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F429E749-FD42-409D-926D-D27AE28C0016}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DCA1350D-6DF5-4E78-B8F2-2095456A5A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DCA1350D-6DF5-4E78-B8F2-2095456A5A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCA1350D-6DF5-4E78-B8F2-2095456A5A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCA1350D-6DF5-4E78-B8F2-2095456A5A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F429E749-FD42-409D-926D-D27AE28C0016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F429E749-FD42-409D-926D-D27AE28C0016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F429E749-FD42-409D-926D-D27AE28C0016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F429E749-FD42-409D-926D-D27AE28C0016}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2DD84189-129B-4281-856D-C6613C6E0D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2DD84189-129B-4281-856D-C6613C6E0D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DD84189-129B-4281-856D-C6613C6E0D21}.Release|Any CPU.ActiveCfg = Release|Any CPU

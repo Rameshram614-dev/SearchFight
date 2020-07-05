@@ -2,10 +2,10 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 using SearchFight.Helper.Config;
-using SearchFight.Common.Exceptions;
-using SearchFight.Common.Extensions;
 using SearchFight.Services.Interfaces;
 using SearchFight.Services.Models.Google;
+using SearchFight.Helper.Exceptions;
+using SearchFight.Helper.Extensions;
 
 namespace SearchFight.Services.SearchEngines
 {

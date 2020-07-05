@@ -11,3 +11,16 @@ C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Infrastructure\obj\Debug\Se
 C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Infrastructure\obj\Debug\SearchFight.Clients.csproj.CopyComplete
 C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Infrastructure\obj\Debug\SearchFight.Infrastructure.dll
 C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Infrastructure\obj\Debug\SearchFight.Infrastructure.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\bin\Debug\SearchFight.Clients.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\bin\Debug\SearchFight.Clients.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\bin\Debug\SearchFight.Logic.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\bin\Debug\SearchFight.Services.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\bin\Debug\SearchFight.Helper.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\bin\Debug\SearchFight.Logic.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\bin\Debug\SearchFight.Services.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\bin\Debug\SearchFight.Helper.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\obj\Debug\SearchFight.Clients.csprojAssemblyReference.cache
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\obj\Debug\SearchFight.Clients.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\obj\Debug\SearchFight.Clients.csproj.CopyComplete
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\obj\Debug\SearchFight.Clients.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Clients\obj\Debug\SearchFight.Clients.pdb

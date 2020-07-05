@@ -16,3 +16,12 @@ C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Services\obj\Debug\SearchFi
 C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Services\obj\Debug\SearchFight.Services.csproj.CopyComplete
 C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Services\obj\Debug\SearchFight.Services.dll
 C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Services\obj\Debug\SearchFight.Services.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\bin\Debug\SearchFight.Services.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\bin\Debug\SearchFight.Services.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\bin\Debug\SearchFight.Helper.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\bin\Debug\SearchFight.Helper.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Debug\SearchFight.Services.csprojAssemblyReference.cache
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Debug\SearchFight.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Debug\SearchFight.Services.csproj.CopyComplete
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Debug\SearchFight.Services.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Debug\SearchFight.Services.pdb

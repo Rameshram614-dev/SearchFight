@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web.Script.Serialization;
 
-namespace SearchFight.Common.Extensions
+namespace SearchFight.Helper.Extensions
 {
     public static class StringExtensions
     {

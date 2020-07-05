@@ -51,7 +51,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SearchFight.Common\SearchFight.Helper.csproj">
+    <ProjectReference Include="..\SearchFight.Helper\SearchFight.Helper.csproj">
       <Project>{F429E749-FD42-409D-926D-D27AE28C0016}</Project>
       <Name>SearchFight.Helper</Name>
     </ProjectReference>

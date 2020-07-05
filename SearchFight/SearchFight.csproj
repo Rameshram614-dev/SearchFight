@@ -67,20 +67,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SearchFight\SearchFight.Common\SearchFight.Helper.csproj">
-      <Project>{F429E749-FD42-409D-926D-D27AE28C0016}</Project>
-      <Name>SearchFight.Helper</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\SearchFight\SearchFight.Infrastructure\SearchFight.Clients.csproj">
-      <Project>{dca1350d-6df5-4e78-b8f2-2095456a5a03}</Project>
-      <Name>SearchFight.Clients</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\SearchFight\SearchFight.Logic\SearchFight.Logic.csproj">
-      <Project>{2DD84189-129B-4281-856D-C6613C6E0D21}</Project>
-      <Name>SearchFight.Logic</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
@@ -91,6 +77,24 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SearchFight.Clients\SearchFight.Clients.csproj">
+      <Project>{DCA1350D-6DF5-4E78-B8F2-2095456A5A03}</Project>
+      <Name>SearchFight.Clients</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SearchFight.Helper\SearchFight.Helper.csproj">
+      <Project>{f429e749-fd42-409d-926d-d27ae28c0016}</Project>
+      <Name>SearchFight.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SearchFight.Logic\SearchFight.Logic.csproj">
+      <Project>{2dd84189-129b-4281-856d-c6613c6e0d21}</Project>
+      <Name>SearchFight.Logic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SearchFight.Services\SearchFight.Services.csproj">
+      <Project>{92caec50-2154-4fa9-964c-e43533d00ac6}</Project>
+      <Name>SearchFight.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

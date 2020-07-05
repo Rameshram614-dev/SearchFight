@@ -1,0 +1,5 @@
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\bin\Release\SearchFight.Common.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\bin\Release\SearchFight.Common.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\obj\Release\SearchFight.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\obj\Release\SearchFight.Common.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\obj\Release\SearchFight.Common.pdb

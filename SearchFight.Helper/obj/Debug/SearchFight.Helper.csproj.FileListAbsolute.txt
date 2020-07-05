@@ -3,3 +3,9 @@ C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\bin\Debug\SearchFigh
 C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\obj\Debug\SearchFight.Helper.csproj.CoreCompileInputs.cache
 C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\obj\Debug\SearchFight.Common.dll
 C:\Users\Ravi\Desktop\Ramesh\SearchFight\SearchFight.Common\obj\Debug\SearchFight.Common.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\bin\Debug\SearchFight.Helper.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\bin\Debug\SearchFight.Helper.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\obj\Debug\SearchFight.Helper.csprojAssemblyReference.cache
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\obj\Debug\SearchFight.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\obj\Debug\SearchFight.Helper.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Helper\obj\Debug\SearchFight.Helper.pdb

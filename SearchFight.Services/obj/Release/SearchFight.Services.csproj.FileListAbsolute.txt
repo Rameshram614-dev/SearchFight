@@ -1,0 +1,9 @@
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\bin\Release\SearchFight.Services.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\bin\Release\SearchFight.Services.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\bin\Release\SearchFight.Common.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\bin\Release\SearchFight.Common.pdb
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Release\SearchFight.Services.csprojAssemblyReference.cache
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Release\SearchFight.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Release\SearchFight.Services.csproj.CopyComplete
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Release\SearchFight.Services.dll
+C:\Users\Ravi\Desktop\New folder\SearchFight\SearchFight.Services\obj\Release\SearchFight.Services.pdb

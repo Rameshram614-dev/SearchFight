@@ -1,5 +1,5 @@
-﻿using SearchFight.Common.Exceptions;
-using SearchFight.Clients;
+﻿using SearchFight.Clients;
+using SearchFight.Helper.Exceptions;
 using System;
 using System.Linq;
 using System.Threading.Tasks;

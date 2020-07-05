@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SearchFight.Common.Exceptions;
-using SearchFight.Common.Extensions;
+using SearchFight.Helper.Exceptions;
+using SearchFight.Helper.Extensions;
 using SearchFight.Logic.Models;
 using SearchFight.Services.Interfaces;
 

@@ -49,7 +49,7 @@
     <Compile Include="Models\SearchResult.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SearchFight.Common\SearchFight.Helper.csproj">
+    <ProjectReference Include="..\SearchFight.Helper\SearchFight.Helper.csproj">
       <Project>{f429e749-fd42-409d-926d-d27ae28c0016}</Project>
       <Name>SearchFight.Helper</Name>
     </ProjectReference>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SearchFight.Common.Exceptions
+namespace SearchFight.Helper.Exceptions
 {
     public class SearchFightException : Exception
     {
